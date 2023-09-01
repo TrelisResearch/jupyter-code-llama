@@ -7,6 +7,8 @@ Run Code Llama on a Mac with an M1 chip with Jupyter Lab
 3. Run 'jupter lab'
 4. Run all of the cells in the notebook.
 
+> The script requires that you have 'wget' installed on your machine. If you don't, this is best installed using HomeBrew (which is best downloaded from [their website](https://brew.sh/).
+
 # Going PRO!
 **Jupyter Code Llama PRO**
 - Save and re-load chats.
